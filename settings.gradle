@@ -1,0 +1,2 @@
+rootProject.name='Transferencia'
+include ':app'
