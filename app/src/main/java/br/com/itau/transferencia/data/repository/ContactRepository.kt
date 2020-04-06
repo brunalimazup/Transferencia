@@ -3,8 +3,8 @@ package br.com.itau.transferencia.data.repository
 import android.app.Application
 import android.util.Log
 import android.widget.Toast
-import androidx.room.Database
 import androidx.room.Room
+import br.com.itau.transferencia.data.database.Database
 import br.com.itau.transferencia.model.Contact
 import org.jetbrains.anko.doAsync
 
